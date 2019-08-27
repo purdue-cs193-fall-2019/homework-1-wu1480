@@ -20,7 +20,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe5%2FCowgirl_Creamery_Point_Reyes_-_Red_Hawk_cheese.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCheese&docid=CrVLCmrgjzqlZM&tbnid=fOUYGF8_OYgDSM%3A&vet=10ahUKEwjus8fvuKPkAhXEmuAKHUThARcQMwh8KAEwAQ..i&w=4490&h=3229&bih=1030&biw=1064&q=cheese&ved=0ahUKEwjus8fvuKPkAhXEmuAKHUThARcQMwh8KAEwAQ&iact=mrc&uact=8)
+[Link](url) and ![Image]
+[https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fe%2Fe5%2FCowgirl_Creamery_Point_Reyes_-_Red_Hawk_cheese.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCheese&docid=CrVLCmrgjzqlZM&tbnid=fOUYGF8_OYgDSM%3A&vet=10ahUKEwjus8fvuKPkAhXEmuAKHUThARcQMwh8KAEwAQ..i&w=4490&h=3229&bih=1030&biw=1064&q=cheese&ved=0ahUKEwjus8fvuKPkAhXEmuAKHUThARcQMwh8KAEwAQ&iact=mrc&uact=8]
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
