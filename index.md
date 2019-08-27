@@ -19,8 +19,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image]
-[Image]: https://d1qikntta4cp8k.cloudfront.net/?q=85&w=789&url=http://cdn-image.travelandleisure.com/sites/default/files/1449080965/cheese-festival-northeast-CHEESE1215.jpg
+[Link](https://en.wikipedia.org/wiki/Cheese) and ![Image](https://i.imgur.com/bLngtFU.jpg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
